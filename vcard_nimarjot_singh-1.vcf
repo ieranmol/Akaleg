@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//QR-Code-Generator.com//EN
+N:Singh;Nimarjot;;;
+FN:Nimarjot Singh
+ORG:Akal Engineering Group Ltd.;
+TITLE:Engineer
+EMAIL;TYPE=PREF,INTERNET:ngre@akaleg.com
+TEL;TYPE=CELL,voice:+15195042721
+TEL;TYPE=WORK,voice:
+TEL;TYPE=WORK,fax:
+ADR;TYPE=WORK;type=pref:;; ;;ON;;Canada
+URL:
+
+NOTE:Pharma & Packaging Solutions
+
+REV:2008-04-24T19:52:43Z
+END:VCARD
